@@ -1,3 +1,4 @@
 (library
  (name bytes)
- (public_name bytes))
+ (public_name bytes)
+ (wrapped false))
